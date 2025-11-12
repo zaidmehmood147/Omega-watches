@@ -22,5 +22,21 @@
   }
 #jj {
    margin-top: 70px;
-   height: 300px;
+  
  }
+ #jj { margin-bottom: 50px; }
+ @media screen and (max-width:980) and (min-width:480) {
+   #jj { margin: 30px auto;
+   }
+ }
+ .nav a {
+   text-decoration: none;
+   color: black;
+ }
+ a:visited {  text-decoration: none;}
+
+a:hover { background-color: rgb(31, 91, 139);
+          border-radius: 5px;
+         color: white; }
+#h2 {font-size: 20px;}
+h5 { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
