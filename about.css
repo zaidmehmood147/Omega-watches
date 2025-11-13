@@ -1,0 +1,22 @@
+.logo>img {
+    width: 100%;
+ }
+ .logo {
+   max-width: 80px;
+}
+.nav a {
+   text-decoration: none;
+   color: black;
+ }
+  a:visited {  text-decoration: none;}
+
+a:hover { background-color: rgb(31, 91, 139);
+          border-radius: 5px;
+         color: white; }
+#kk { 
+    height: 450px;
+}   
+#msd  {
+    margin: 30px auto;
+    border: none !important;
+}   
