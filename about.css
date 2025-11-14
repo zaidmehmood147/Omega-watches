@@ -20,3 +20,18 @@ a:hover { background-color: rgb(31, 91, 139);
     margin: 30px auto;
     border: none !important;
 }   
+.Wp {
+  width: 70px;
+  height: 70px;
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+  z-index: 10;
+ }
+ .Wp img {
+ width: 100%;
+ }
+ .Wp {
+  position: fixed;
+  right: 10px;
+ }
